@@ -1,0 +1,36 @@
+{% extends 'core/base.html' %}
+{% block content %}
+    <div style="padding: 35px;">
+    <div class="row">
+    <div class="col-sm-8">
+    <form action="{% url 'result' %}" method="post">
+      {% csrf_token %}
+      <h2 class="left-align">Parameter for Genetic Algorithm</h2>
+      <div class="form-group">
+        <label for="formGroupExampleInput">Generation Limit</label>
+        <input type="text" class="form-control" id="formGroupExampleInput" value="2000" name="generationlimit">
+      </div>
+      <div class="form-group">
+        <label for="formGroupExampleInput2">Population Size</label>
+        <input type="text" class="form-control" id="formGroupExampleInput2" value="20" name="population_size">
+      </div>
+      <div class="form-group">
+        <label for="formGroupExampleInput">Crossover rate</label>
+        <input type="text" class="form-control" id="formGroupExampleInput3" value="0.9" name="crossover">
+      </div>
+      <div class="form-group">
+        <label for="formGroupExampleInput2">Mutation rate</label>
+        <input type="text" class="form-control" id="formGroupExampleInput4" value="0.1" name="mutation">
+      </div>
+        <input type="input" name="buyer" value="{{buyer_df}}">
+        <input type="hidden" name="seller" value="{{seller_df}}">
+        <input type="hidden" name="BIQ" value="{{BIQ}}">
+        <input type="hidden" name="SIQ" value="{{SIQ}}">
+      <div class="form-group">
+        <button type="submit" class="btn btn-success" >Solve</button>
+      </div>
+    </form>
+    </div>
+    </div>
+    </div>
+{% endblock %}

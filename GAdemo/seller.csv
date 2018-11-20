@@ -1,0 +1,528 @@
+discount,form,genericName,id,inventory,isActive,minAmount,minimumQuantity,packaging,price,strength
+0,Injection,Methylprednisolone Acetate,Ma Ma Moe,77,True,0,0,"5ml(5Vial)
+",0.0,40 mg
+2,Tablet,Ranitidine,Ma Ma Moe,47,True,0,5,15 x 30's (1Bx),0.0,150mg
+0,Cream,"Betamethasone valerate, Gentamycin sulphate, Miconazole nitrate",Ma Ma Moe,86,True,0,0,1Bt,900.0,20 g
+0,Tablets,Atenolol,Ma Ma Moe,75,True,0,0,14 x 2's (1Bx),0.0,25 mg
+0,Solution,Povidone lodine,Ma Ma Moe,94,True,0,0,1 Bx,6336.0,-
+0,Tablets,"Theophylline 23mg , Etofyline 77mg",Ma Ma Moe,98,True,0,0,30 x 10's (1Bx),0.0,100mg
+0,Tablets,Aceclofenac,Ma Ma Moe,92,True,0,0,10x10's (1Bx),0.0,100 mg
+0,Injection(IM/IV),Hydrocortisone Sodium,Ma Ma Moe,99,True,0,0,1 Bx,0.0,100mg
+0,Tablets,Dexamethasone,Ma Ma Moe,99,True,0,0,1Bx,1620.0,5mg
+0,Injection,Vitamin B Complex with Vitamin B12,Ma Ma Moe,99,True,0,0,"1Bx
+",6552.0,-
+0,Tablets,Metronidazole,Ma Ma Moe,100,True,0,0,1Bx,1260.0,250mg
+0,Tablets,Amlodipine,Ma Ma Moe,100,True,0,0,1Bx,6192.0,10 mg
+0,Tablets,"Ampicillin,Cloxacillin
+",Ma Ma Moe,90,True,0,0,1Bx,4500.0,250mg
+0,Tablets,Albendazole,Ma Ma Moe,91,True,0,0,10 x 10's x 1,0.0,400 mg
+0,Tablets,Ciprofloxacin,Ma Ma Moe,97,True,0,0,10 x 10's,0.0,250mg
+0,Tablets,Ciprofloxacin,Ma Ma Moe,99,True,0,0,10 x 10's,0.0,500mg
+0,Tablets,Omeprazole,Ma Ma Moe,100,True,0,0,1Bx,1500.0,20mg
+0,Tablets,Co-trimoxazole,Ma Ma Moe,98,True,0,0,"
+1Bx",2200.0,80 mg/400 mg
+0,Tablets,Norfloxacin,Ma Ma Moe,100,True,0,0,1Bx,4080.0,200mg
+0,Tablets,Vitamin C (Ascorbic Acid),Ma Ma Moe,95,True,0,0,1 Bx,4800.0,100mg
+0,Syrup,Multi vita (***),Ma Ma Moe,100,True,0,0,1Bt,1020.0,-
+0,Tablets,Atorvastatin,Ma Ma Moe,97,True,0,0,1Bx,4080.0,10mg
+0,Tablets,Atorvastatin,Ma Ma Moe,92,True,0,0,1Bx,11400.0,20mg
+0,Tablets,Diclofenac (50 mg) + Serratiopeptidase (10 mg),Ma Ma Moe,94,True,0,0,10 x 10's,0.0,50/10 mg
+0,Injection,Prochlorperazine,Ma Ma Moe,100,True,0,0,1 b,2500.0,1.25 mg
+0,Tablets,Prednisolone,Ma Ma Moe,98,True,0,0,10x10's,0.0,5mg
+0,Tablets,Metoclopramide Hcl,Ma Ma Moe,100,True,0,0,1Bx,1080.0,10mg
+0,Tablets,Prochlorperazine,Ma Ma Moe,100,True,0,0,1Bx,1800.0,5 mg
+0,Tablets,Aspirin,Ma Ma Moe,100,True,0,0,1Bx,4080.0,80mg
+0,Tablets,Amlodipine,Ma Ma Moe,90,True,0,0,1Bx,2400.0,5 mg
+0,Powder,Amoxicillin ,Ma Ma Moe,100,True,0,0,4b,2000.0,125mg/5ml
+0,Syring,3cc Syring,Ma Ma Moe,100,True,0,0,1 Bx,3480.0,3cc
+0,Syring,20 cc Syring,Ma Ma Moe,100,True,0,0,1 Bx,4800.0,20 cc
+0,Injection,Dextrose Monohydrate,Ma Ma Moe,100,True,0,0,10 Bt,4300.0,25ml
+0,Injection,ATT inj;,Ma Ma Moe,100,True,0,0,10amp,2300.0,5ml
+0,Cream,Ketoconazole ,Ma Ma Moe,78,True,0,0,10Tube,6600.0,5g
+0,Tablets,Bromhexine Hcl(bulk),Ma Ma Moe,98,True,0,0,1Bx,900.0,8mg
+0,Tablets,Silodosin,Ma Ma Moe,100,True,0,0,1 Bx,5400.0,8mg
+0,Tablets,Ibuprofen,Ma Ma Moe,100,True,0,0,10x10's,2800.0,400 mg
+0,Tablets,Cetirizine,Ma Ma Moe,96,True,0,0,1Bx,2760.0,10 mg
+0,Cream,Ketoconazole,Ma Ma Moe,59,True,0,0,1 Bt,2350.0,20 g
+0,Injection, Ranintidine Hydrochloride,Ma Ma Moe,99,True,0,0,1b,0.0,20mg/2ml
+0,Tablets,Ibuprofen,Ma Ma Moe,96,True,0,0,1b,0.0,400mg
+0,Tablets,Ciprofloxacin Hydrochloride,Ma Ma Moe,99,True,0,0,1b,0.0,250mg
+0,Tablets, Ranitidine ,Ma Ma Moe,100,True,0,0,10 x 10's,1100.0,150mg
+0,Tablets, Ranitidine ,Ma Ma Moe,99,True,0,0,25 x 20's,0.0,150mg
+0,Cream,Betamathasone Dipropionate & Gentamicin Sulphate,Ma Ma Moe,99,True,0,0,1 Tub,1600.0,20mg
+0,Cream,Topical anti-infective Ointment,Ma Ma Moe,96,True,0,0,1 Tub,0.0,20mg
+0,Capsule,Asprin,Ma Ma Moe,100,True,0,0,2 x 30's,4800.0,100mg
+0,Cream,Terbinafine Hydrochloride,Ma Ma Moe,99,True,0,0,1 Tub,1800.0,15g
+0,Cream,Clobrtasol Propionate,Ma Ma Moe,99,True,0,0,1 Tub,2300.0,10g
+0,Tablets,Domperidone ,Ma Ma Moe,100,True,0,0,5x 10's,3400.0,10mg
+0,Capsules,Doxycycline HCL ,Ma Ma Moe,100,True,0,0,10 x 10's,6500.0,100mg
+0,Tablets,Dexamethasone ,Ma Ma Moe,100,True,0,0,10 x10 's,1000.0,0.75mg
+0,Cream,"Tolnaftate , Chlorhexidine",Ma Ma Moe,100,True,0,0,1 Tub,1600.0,10 mg & 2 mg
+0,Tablets,Ketoconazole,Ma Ma Moe,100,True,0,0,10x10's,12000.0,200mg
+0,Cream,Ketoconazole,Ma Ma Moe,100,True,0,0,1 Tub,1900.0,20mg/g
+0,Tablets,Diclofence Dodium,Ma Ma Moe,100,True,0,0,10x10's,0.0,50mg
+0,Tablets,Famotidine,Ma Ma Moe,100,True,0,0,10x10's,6500.0,40mg
+0,Gel,Diclofenac Sodium Cool,Ma Ma Moe,100,True,0,0,1 Tub,1200.0,20g
+1,Cream,Acyclovir,Ma Ma Moe,100,True,6000,5,1 Tub,1200.0,5g
+0,Tablets,Acyclovir,Ma Ma Moe,100,True,0,0,10 x 10's,8500.0,200mg
+0,Tablets,Acyclovir,Ma Ma Moe,100,True,0,0,10x10's,11000.0,800mg
+0,Cream,Econazole Nitrate,Ma Ma Moe,100,True,0,0,1 Tub,1650.0,20g
+0,Tablets,Cinnarizine,Ma Ma Moe,100,True,0,0,10x10's,3000.0,25mg
+0,Cream, Hydrocortisone Acetate,Ma Ma Moe,99,True,0,0,1 Tub,0.0,20g
+0,Gel,Clindamycin Phosphate,Ma Ma Moe,100,True,0,0,1 Tub,4000.0,20g
+0,Capsule,Tranexamic Acid,Ma Ma Moe,100,True,0,0,10x 10's,12000.0,250mg
+0,Injection,Tranexamic Acid,Ma Ma Moe,100,True,0,0,5amp,13000.0,500 mg
+0,Capsule,Clindamycin HCL,Ma Ma Moe,97,True,0,0,10x10's,0.0,150mg
+0,Capsule,Clindamycin HCL,Ma Ma Moe,100,True,0,0,10x10's,24000.0,300mg
+0,Injection,Triamcinolone Acetonide ,Ma Ma Moe,100,True,0,0,1ml x 10,8000.0,10 mg/ml
+0,Injection,Triamcinolone Acetonide ,Ma Ma Moe,94,True,0,0,1ml x 10,11500.0,40 mg/ml
+0,Tablets,Paracetamol ,Ma Ma Moe,93,True,0,0,10 x 10 's,17500.0,125mg
+0,Tablets,Paracetamol ,Ma Ma Moe,99,True,0,0,10 x 10 's,19500.0,250mg
+0,Capsules,Mefenamic Acid,Ma Ma Moe,100,True,0,0,100 x 10 's,28000.0,250mg
+0,Capsule,Mefenamic Acid,Ma Ma Moe,100,True,0,0,100 x 10 's,47000.0,500mg
+0,Tablets,Paracetamol ,Ma Ma Moe,95,True,0,0,10 x 10 's,0.0,500mg
+0,Tablets,Prednisolone,Ma Ma Moe,98,True,0,0,10 x 10's,2800.0,5mg
+0,Injection,Diclofenac Sodium,Ma Ma Moe,98,True,0,0,1 Bx,1450.0,75mg
+0,Tablets,Amoxicillin,Ma Ma Moe,99,True,0,0,10 x 10's,0.0,250mg
+0,Tablets,Amoxicillin,Ma Ma Moe,99,True,0,0,10 x 10's,0.0,500mg
+0,Tablets,Amoxycilin trihydrate + Clavulanate potassium,Ma Ma Moe,96,True,0,0,10 x 10's,0.0,625mg
+0,Tablets,Amoxycilin + Clavulanate potassium,Ma Ma Moe,99,True,0,0,10 x 10's,0.0,375mg
+0,Tablets,Azithromycin,Ma Ma Moe,99,True,0,0,10 x 10's,0.0,250mg
+0,Tablets,Allopurinol,Ma Ma Moe,100,True,0,0,10 x 10's,600.0,100mg
+0,Tablets,Folic acid,Ma Ma Moe,100,True,0,0,10 x 10's,2000.0,5mg
+0,Tablets,Amlodipine,Ma Ma Moe,100,True,0,0,10 x 10's,6000.0,5 mg
+0,Tablets,Amlodac 10,Ma Ma Moe,100,True,0,0,10 x 10's,8000.0,10mg
+0,Tablets,Atussin,Ma Ma Moe,98,True,0,0,1 Bx,10500.0,25mg
+0,Syrup,Atussin,Ma Ma Moe,99,True,0,0,1 Bt,0.0,25mg
+0,Tablets,Azithromycin,Ma Ma Moe,98,True,0,0,10 x 10's,0.0,500mg
+0,Capsule,Silymarin & Vit B complex,Ma Ma Moe,99,True,0,0,10 x 10 st,4500.0,150 mg
+0,Syrup,Paracetamol,Ma Ma Moe,91,True,0,0,1 Bt,0.0,100mg/ml
+0,Injection,Dyphylline,Ma Ma Moe,100,True,0,0,10amp,0.0,200mg
+0,-,Drotaverine,Ma Ma Moe,94,True,0,0,5amp/bx,0.0,-
+0,Injection,Furosemide,Ma Ma Moe,99,True,0,0,5amp,0.0,20mg/2ml
+0,-,Gentamicin,Ma Ma Moe,98,True,0,0,1 Bt,580.0,100mg/10ml
+0,Injection,Piracetam,Ma Ma Moe,99,True,0,0,1 Bx,0.0,3 x 15ml
+0,Injection,Metoclopramide Hcl,Ma Ma Moe,100,True,0,0,10amp,1450.0,10mg/2ml
+0,Injection,Amino Acid + Sorbitol,Ma Ma Moe,96,True,0,0,1 Bt,0.0,200ml
+0,-,-,Ma Ma Moe,100,True,0,0,-,1.0,-
+0,Tablets,Ranitidine,Ma Ma Moe,100,True,0,0,10 x 10's,1400.0,150mg
+0,Syrup,Chlorphenamine,Ma Ma Moe,100,True,0,0,1 Bt,500.0,150ml
+0,Tablets,Domperidone,Ma Ma Moe,95,True,0,0,1Bx,1300.0,10mg
+0,Tablets,Norfloxacin,Ma Ma Moe,100,True,0,0,1 Bx,3100.0,200mg
+0,Tablets,Norfloxacin,Ma Ma Moe,100,True,0,0,1 Bx,3100.0,400mg
+0,Capsule,Hepatotonic Phospholipids & Vitamins,Ma Ma Moe,99,True,0,0,3x10's/1Bx,5088.0,500mg
+0,Tablets,Amoxicillin + Flucloxacillin,Ma Ma Moe,99,True,0,0,10 x 10's,0.0,250mg
+0,Tablets, Erythromycin,Ma Ma Moe,100,True,0,0,1 Bx,0.0,250mg
+0,Injection,"Vitamin B1 , B6 , B12",Ma Ma Moe,96,True,0,0,5 x 5 amp,0.0,3ml
+0,Injection,Pantoprazole Sodium,Ma Ma Moe,95,True,0,0,1 Bx,0.0,40mg
+0,Tablets,Pyridoxine Vitamin B6,Ma Ma Moe,96,True,0,0,10 amp,0.0,50mg x 1ml
+0,Injection,Hydroxocobalamin  + Vitamin B12,Ma Ma Moe,96,True,0,0,1ml x 10 amp,0.0,100mg
+0,Gel,Benzalkonium Chloride,Ma Ma Moe,96,True,0,0,1 Bt,0.0,15g
+0,Syrup,Loratadine,Ma Ma Moe,98,True,0,0,1 Bx,0.0,5mg/5ml
+0,Tablets,Loratadine,Ma Ma Moe,95,True,0,0,1 Bx,0.0,10mg
+0,Tablets,Mg + Aluminium Hydroxide,Ma Ma Moe,98,True,0,0,2 x 10's,0.0,-
+0,-, Ranintidine Hydrochloride,Ma Ma Moe,97,True,0,0,-,0.0,-
+0,-,-,Ma Ma Moe,95,True,0,0,-,0.0,-
+0,-,-,Ma Ma Moe,95,True,0,0,-,0.0,-
+0,Tablets,Loperamide Hydrochloride,Ma Ma Moe,97,True,0,0,10 x 10 's,0.0,-
+0,Powder,Bioflor,Ma Ma Moe,96,True,0,0,1 Bx,0.0,-
+0,Syrup, Magaldrate & Simethicone,Ma Ma Moe,99,True,0,0,1 Bt,0.0,200ml
+0,-,-,Ma Ma Moe,93,True,0,0,125ml/bot,0.0,-
+0,-,-,Ma Ma Moe,99,True,0,0,1st,0.0,-
+0,-,-,Ma Ma Moe,99,True,0,0,1bx(5amp),0.0,-
+0,-,-,Ma Ma Moe,99,True,0,0,1vial,0.0,-
+0,-,-,Ma Ma Moe,100,True,0,0,10st,0.0,-
+0,-,Zinc Oxide,Ma Ma Moe,99,True,0,0,-,0.0,-
+0,Tablet,Prednisolone,Ma Ma Moe,100,True,0,0,10 x 10's,2800.0,5 mg
+0,Tablets,Rabeprazole,Ma Ma Moe,97,True,0,0,10 x 10's,0.0,20mg
+0,Injection,Aminophylline,Ma Ma Moe,98,True,0,0,10amp,0.0,25mg/ml
+0,Plaster,Hansaplast,Ma Ma Moe,99,True,0,0,1Bx,3967.5,-
+0,Tablets, Lidocaine ,Ma Ma Moe,97,True,0,0,10 x 10's,0.0,20mg/ml
+0,Injection,Inj Lignocaine ,Ma Ma Moe,99,True,0,0,10amp,0.0,40mg/ml
+0,Injection,Inj; Progesterone BP,Ma Ma Moe,94,True,0,0,10 x 2amp,0.0,100mg/2ml
+0,Tablets,Cyproheptadine,Ma Ma Moe,97,True,0,0,10 x 10's,0.0,-
+0,Tablets,Cetirizine Hcl,Ma Ma Moe,100,True,0,0,10 x 10's,0.0,10mg
+0,Tablets,"Vitamin B1 , B6 , B12",Ma Ma Moe,98,True,0,0,10 x 5's,0.0,-
+0,Tablets,Vitamin B Complex + B12,Ma Ma Moe,96,True,0,0,10 x 10's,0.0,-
+0,Injection, Gentamicin,Ma Ma Moe,99,True,0,0,10amp,0.0,20mg/ml
+0,Tablets,B-Complex With Vitamin C,Ma Ma Moe,98,True,0,0,100 Tb,0.0,10mg
+0,Bandage,Bandages,Ma Ma Moe,98,True,0,0,1 Bx,0.0,10cm x 2.5m x 0.4cm
+0,Cream, Tretinoin,Ma Ma Moe,100,True,0,0,1 Bt,0.0,20g
+0,Tablets,Ambroxol HCL,Ma Ma Moe,100,True,0,0,10x10's,3700.0,30mg
+0,Capsule,Glucosamine Sulphate ,Ma Ma Moe,100,True,0,0,100 Tb,12000.0,250mg
+0,Softgels,Natural Vitamin E,Ma Ma Moe,99,True,0,0,60 Softgels,0.0,100mg
+0,Tablets,Piracetam,Ma Ma Moe,99,True,0,0,1 Bx,0.0,800mg
+0,Bandage,Elastic Bandage,Ma Ma Moe,99,True,0,0,1 Bx,0.0,"6"""
+0,Bandage,Elastic Bandage,Ma Ma Moe,97,True,0,0,1 Bx,0.0,"3"""
+0,Bandage,Elastic Bandage,Ma Ma Moe,99,True,0,0,1 Bx,0.0,"4"""
+0,Tablets,"Vitamin B1 , B6 , B12",Ma Ma Moe,99,True,0,0,1 Bx,0.0,-
+0,Injection,"Vitamin B1 , B6 , B12",Ma Ma Moe,99,True,0,0,1 Bx,0.0,100mg
+0,Syring,5cc Syring,Ma Ma Moe,100,True,0,0,1 Bx,3960.0,"5cc
+"
+0,Injection,Water For Injection,Ma Ma Moe,100,True,0,0,1 Bx,0.0,5ml
+0,Injection,Thiamine Hcl (Vitamin B1),Ma Ma Moe,99,True,0,0,1 Bx,0.0,3ml
+0,Lozenges,Vitamin C Lozenge,Ma Ma Moe,100,True,0,0,1 Bx,2750.0,-
+0,Powder,Electrolyte Beverage,Ma Ma Moe,99,True,0,0,1 Bx,0.0,-
+0,Tablets,Doxylamine Succinate & Pyridoxine Hcl,Ma Ma Moe,99,True,0,0,1 Bx,0.0,10mg
+0,Tablets, Norethisterone,Ma Ma Moe,100,True,0,0,1 Bx,0.0,5mg
+0,Capsules,Zinc & B- Complex fortified with Vitamin c,Ma Ma Moe,99,True,0,0,6x10's/1Bx,3600.0,-
+0,Tablets,Nebivolol & Telmisartan,Ma Ma Moe,99,True,0,0,1 Bx,0.0,5mg/40mg
+0,Syrup,Cough Syrup,Ma Ma Moe,100,True,0,0,1 Bt,0.0,100ml
+0,Tablets, Metformin,Ma Ma Moe,100,True,0,0,1 Bx,0.0,500mg
+0,Injection,Ranitidine Hcl,Ma Ma Moe,100,True,0,0,1 Bx,0.0,25mg/ml
+0,Tablets, Atorvastatin,Ma Ma Moe,100,True,0,0,1's,3200.0,20mg
+0,Tablets, Trimetazidine dihydrochloride,Ma Ma Moe,100,True,0,0,1's,2500.0,35mg
+0,Tablets,Domperidone,Ma Ma Moe,95,True,0,0,10 x 10's,1500.0,10mg
+0,Tablets,Hyoscine Butylbromide 10mg,Ma Ma Moe,99,True,0,0,10 x 10's,3000.0,10mg
+0,Tablets,PANTOPRAZOLE ,Ma Ma Moe,99,True,0,0,10 x 10 's,8000.0,40mg
+0,Tablets,PANTOPRAZOLE ,Ma Ma Moe,99,True,0,0,10 x 10's,8000.0,40mg
+0,Tablets,Pantoprazole,Ma Ma Moe,98,True,0,0,10 x 10's,5000.0,20mg
+0,Tablets,Pantoprazole,Ma Ma Moe,99,True,0,0,10 x 10's,5000.0,20mg
+0,Tablets,Diclofenac Sodium,Ma Ma Moe,100,True,0,0,10 x 10's,7800.0,100mg
+0,Tablets,Vitamin B Complex with Vitamin B12,Ma Ma Moe,100,True,0,0,10 x 15's,5500.0,-
+0,Capsules,Ranitidine,Ma Ma Moe,100,True,0,0,10 x 10's,0.0,20mg
+0,Tablets,Amlodipine,Ma Ma Moe,98,True,0,0,3 x 10's,3650.0,10mg
+0,Tablets,Amlodipine,Ma Ma Moe,100,True,0,0,10 x 10's,2000.0,5mg
+0,Tablets,Paracetamol ,Ma Ma Moe,99,True,0,0,100 x 10's,5700.0,500mg
+0,Capsules,Piracetam,Ma Ma Moe,100,True,0,0,10 x 10's,4250.0,400mg
+0,Capsules,Piracetam,Ma Ma Moe,100,True,0,0,10 x 10's,8200.0,800mg
+0,Capsules,Ascorbic acid ,Ma Ma Moe,78,True,0,0,1Bx,7600.0,500mg
+0,Capsules,Antioxidant Vitamin,Ma Ma Moe,76,True,0,0,1Bx,7600.0,500mg
+0,Capsules,Omeprazole,Ma Ma Moe,100,True,0,0,10 x 10's,0.0,20mg
+0,Capsules,Omeprazole,Ma Ma Moe,100,True,0,0,10 x 10's,3300.0,20mg
+0,0il,Medicated Oil,Ma Ma Moe,100,True,0,0,1 Bt,5000.0,56ml
+0,Tablets,Cetirizine Hcl,Ma Ma Moe,100,True,0,0,5 x 10's,2700.0,10mg
+0,Tablets,Sitagliptin  Tablets,Ma Ma Moe,100,True,0,0,3 x 10's,12600.0,100mg
+0,Tablets,Allopurinol Tablets,Ma Ma Moe,100,True,0,0,10 x 10's,5500.0,100mg
+0,Cream,Acyclovir 3%,Ma Ma Moe,95,True,0,0,1 Bt,680.0,3g
+0,Powder,Azithromycin USP,Ma Ma Moe,100,True,0,0,15ml(1Bt),1200.0,200mg/5ml
+0,Capsules, Vitamins & Minerals & Zinc Nutritional Food Supplement,Ma Ma Moe,93,True,0,0,1Bx,4600.0,-
+0,Syrup,Chlorpheniramine &  Dextromethorphan ,Ma Ma Moe,91,True,0,0,100ml (1 Bt),1450.0,-
+0,Tablets,Loratadine,Ma Ma Moe,100,True,0,0,5 x 10's,12500.0,10mg
+0,Liquid,"Iron,Manganese & Copper",Ma Ma Moe,98,True,0,0,20amp x 10ml,11700.0,"50mg,1.33mg,0.70mg"
+0,Tablets,ITRACONAZOLE,Ma Ma Moe,100,True,0,0,10 x 10's,1200.0,200mg
+0,Evohaler,Salbutamol Inhalation,Ma Ma Moe,100,True,0,0,1 Bt,3500.0,100mcg
+0,Cream,Pain Relieving Cream,Ma Ma Moe,93,True,0,0,30gm(1 Bt),1250.0,-
+0,Capsules,Mebendazole,Ma Ma Moe,100,True,0,0,1 x 12's,7700.0,500mg
+0,Tablets,Bambuterol Hcl Tablets,Ma Ma Moe,100,True,0,0,10 x 10's,15300.0,10mg
+0,Tablets,Atorvastatin,Ma Ma Moe,100,True,0,0,3 x 10's,5250.0,10mg
+0,Liquid, Multivitamins & Minerals,Ma Ma Moe,97,True,0,0,25ml (1 Bt),1200.0,25mg
+0,Tablets, Acyclovir ,Ma Ma Moe,100,True,0,0,5 x 5 's,2200.0,200mg
+0,Tablets,Cetirizine Dihydrochloride,Ma Ma Moe,100,True,0,0,10 x 10's,2000.0,10mg
+0,Capsules,Ibuprofen & Paracetamol,Ma Ma Moe,98,True,0,0,10 x 10's,9000.0,200mg/325mg
+0,Tablets,Ibuprofen & Paracetamol,Ma Ma Moe,94,True,0,0,1Bx,9300.0,200mg/325mg
+0,Tablets,Amlodipine,Ma Ma Moe,90,True,0,0,1Bx,4920.0,5mg
+0,Disinfection,Alcohol Swabs,Ma Ma Moe,98,True,0,0,"100PCS
+",850.0,70% Alcoho
+0,Tablets, Spironolactone,Ma Ma Moe,100,True,0,0,10 x 10's,12900.0,25mg
+0,Tablets,Cetirizine,Ma Ma Moe,100,True,0,0,10 x 10's,2550.0,5mg
+0,Tablets, Diltiazem,Ma Ma Moe,100,True,0,0,10 x 10's,6000.0,30mg
+0,Liquid,Multivitamins Plus,Ma Ma Moe,93,True,0,0,30ml (1 Bt),10200.0,-
+0,Jelly,Vitamin C,Ma Ma Moe,94,True,0,0,1Bx,8400.0,-
+0,Syrup,Multivitain,Ma Ma Moe,100,True,0,0,120ml (1 Bt),8200.0,-
+0,Syrup,Multivitain,Ma Ma Moe,98,True,0,0,60ml (1 Bt),6400.0,-
+0,Tablets,Multivitamin	Multivitamin,Ma Ma Moe,94,True,0,0,1Bx,11800.0,-
+0,Capsules, Azithromycin,Ma Ma Moe,100,True,0,0,1 x 3's,1150.0,500mg
+0,Tablets, Azithromycin ,Ma Ma Moe,100,True,0,0,10 x 6's,9900.0,250mg
+0,Tablets,Azithromycin,Ma Ma Moe,100,True,0,0,1 x 6's,3500.0,250mg
+0,Tablets,Azithromycin,Ma Ma Moe,100,True,0,0,10 x 3's,6500.0,500mg
+0,Tablets,Fexofenadine,Ma Ma Moe,100,True,0,0,1 x 10's,1300.0,60mg
+0,Capsules, Orlistat,Ma Ma Moe,100,True,0,0,1 x 21's,14900.0,120mg
+0,Capsules,Fish Oil,Ma Ma Moe,100,True,0,0,60's,4800.0,500mg
+0,Tablets,Vitamin B1 + B6 + B12 (B Complex),Ma Ma Moe,100,True,0,0,10 x 10's,5500.0,500mg
+0,Tablets, Minerals and Multivitamins,Ma Ma Moe,94,True,0,0,10 x 10's,16200.0,-
+0,Capsules,Orlistat,Ma Ma Moe,100,True,0,0,1 x 10's,4000.0,120mg
+0,Powder,"Glucose, Potassium Chloride, Sodium Chloride &  Sodium Citrate Dibasic",Ma Ma Moe,100,True,0,0,60's ,11600.0,-
+0,Tablets,Propranolol ,Ma Ma Moe,100,True,0,0,5 x 20's,4700.0,10mg
+0,Tablets,Propranolol ,Ma Ma Moe,100,True,0,0,10 x 10's,2000.0,40mg
+0,Captabs, Metronidazole,Ma Ma Moe,100,True,0,0,60's,19800.0,-
+0,Syrup, Paracetamol,Ma Ma Moe,89,True,0,0,1 Bt,2200.0,250mg/5ml
+0,Tablets,Vitamin B1 + B6 + B12 ,Ma Ma Moe,96,True,0,0,30 x 10's,1140.0,-
+0,Tablets,Amlodipine,Ma Ma Moe,100,True,0,0,5 x 10's,2780.0,5mg
+0,Tablets,Losartan,Ma Ma Moe,99,True,0,0,1Bx,11100.0,50mg
+0,Tablets,Losartan,Ma Ma Moe,100,True,0,0,10 x 10's,4700.0,25mg
+0,Tablets,Sitagliptin,Ma Ma Moe,100,True,0,0,1 x 10's,2900.0,50mg
+0,Tablets,Sitagliptin,Ma Ma Moe,100,True,0,0,1 x 10's,4800.0,100mg
+0,Tablets,Rosuvastatin ,Ma Ma Moe,100,True,0,0,3 x 10's,19600.0,20mg
+0,Tablets,Paracetamol,Ma Ma Moe,92,True,0,0,1Bx,22500.0,500mg
+0,Liquid,Skincare Oil,Ma Ma Moe,99,True,0,0,60ml (1 Bt),6600.0,-
+0,Liquid,-,Ma Ma Moe,100,True,0,0,60ml (1Bt),880.0,-
+0,Capsules, Cefalexin,Ma Ma Moe,100,True,0,0,10 x 10's,17200.0,500mg
+0,Tablets,Multivitamin,Ma Ma Moe,100,True,0,0,30's,5900.0,-
+0,Lozenges, Dextromethorphan Hydrobromide Monohydrate,Ma Ma Moe,97,True,0,0,1Bx,2750.0,-
+0,Lozenge ,Dichlorobenzyl Alcohol & Amylmetacresol ,Ma Ma Moe,93,True,0,0,1Bx,2750.0,-
+0,Tablets,Decongestant Tablets,Ma Ma Moe,97,True,0,0,1Bx,1850.0,-
+0,Syrup,Decongestant Syrup,Ma Ma Moe,100,True,0,0,60ml (1Bt),1100.0,1mg
+0,Tablets, Cinnarizine,Ma Ma Moe,80,True,0,0,1Bx,1100.0,25mg
+0,Tablets,Cefixime,Ma Ma Moe,100,True,0,0,5 x 10's,7250.0,200mg
+0,Tablets, Telmisartan,Ma Ma Moe,100,True,0,0,10 x 10's,3450.0,40mg
+0,Tablets, Cimetidine,Ma Ma Moe,100,True,0,0,50 x 10's,8100.0,200mg
+0,Tablets, Aceclofenac,Ma Ma Moe,100,True,0,0,10 x 10's,3300.0,100mg
+0,Tablets, Atorvastatin,Ma Ma Moe,100,True,0,0,10 x 10's,26850.0,10mg
+0,Tablets,Multivitamins,Ma Ma Moe,100,True,0,0,3 x 10's,5600.0,-
+0,Capsules,Multivitamins,Ma Ma Moe,96,True,0,0,1Bx,13000.0,-
+0,Tablets,Multivitamins,Ma Ma Moe,99,True,0,0,60's,12000.0,-
+0,Syrup," Bromhexine, Guaifenesin, Menthol & Terbutaline",Ma Ma Moe,89,True,0,0,100ml (1 Bt),1700.0,-
+0,Syrup,Multivitamins,Ma Ma Moe,94,True,0,0,110ml (1 Bt),1900.0,-
+0,Gas, Salbutamol ,Ma Ma Moe,100,True,0,0,1 Bt,4000.0,100mcg
+0,Tablets, Atenolol,Ma Ma Moe,100,True,0,0,10 x 10's,3200.0,50mg
+0,Tablets,Ampicillin & Cloxacillin,Ma Ma Moe,100,True,0,0,10 x 10's,7900.0,125mg
+0,Tablets,Amlodipine,Ma Ma Moe,100,True,0,0,3 x 10's,1750.0,5mg
+0,Capsules, Fluconazole,Ma Ma Moe,100,True,0,0,1 x 30's,7500.0,150mg
+0,Syrup, Ascorbic Acid,Ma Ma Moe,99,True,0,0,120ML (1 Bt),2750.0,100mg/5ml
+0,Tablets,Ciprofloxacin ,Ma Ma Moe,100,True,0,0,10 x 10's,3050.0,500mg
+0,Tablets,Ciprofloxacin ,Ma Ma Moe,100,True,0,0,10 x 10's,1650.0,250mg
+0,Tablets,Clarithromycin,Ma Ma Moe,100,True,0,0,1 x 10's,3550.0,250mg
+0,Tablets, Ropinirole,Ma Ma Moe,99,True,0,0,5 x 10's,4150.0,0.25mg
+0,Tablets," Dimethicone, Dried Aluminium Hydroxide, Liquorice & Magnesium Hydroxide",Ma Ma Moe,100,True,0,0,10 x 10's,8200.0,-
+0,Tablets, Dicyclomine & Mefenamic Acid ,Ma Ma Moe,98,True,0,0,2 x 10's,1800.0,40mg
+0,Tablets, Losartan,Ma Ma Moe,99,True,0,0,10 x 10's,7250.0,25mg
+0,Capsules,Multivitamins,Ma Ma Moe,100,True,0,0,10 x 10's,21000.0,-
+0,Tablets,Vitamins & Minerals,Ma Ma Moe,100,True,0,0,10 x 10's,15000.0,-
+0,Tablets, Rabeprazole,Ma Ma Moe,100,True,0,0,3 x 10's,3300.0,10mg
+0,Tablets, Rabeprazole,Ma Ma Moe,100,True,0,0,3 x 10's,3300.0,20mg
+0,Tablets,Maintains Prostate Health,Ma Ma Moe,100,True,0,0,3x10s,8200.0,-
+0,Plaster,Elastic Plaster,Ma Ma Moe,99,True,0,0,100's,2300.0,-
+0,Tablets,Ibuprofen,Ma Ma Moe,94,True,0,0,1Bx,1500.0,200mg
+0,Gel,Skincare Gel,Ma Ma Moe,99,True,0,0,7gm (1 Bt),4600.0,-
+0,Gel,Skincare Gel,Ma Ma Moe,85,True,0,0,5gm ( 1Bt ),5000.0,-
+0,Syrup,"Aminophylline, Diphenhydramine, Ammonium Chloride, Menthol",Ma Ma Moe,100,True,0,0,120ml(1Bt),1150.0,-
+0,Cream,Ketoconazole,Ma Ma Moe,100,True,0,0,5gm (10Bt),5800.0,-
+0,Plaster,Capsicum Plaster,Ma Ma Moe,96,True,0,0,24's,5700.0,-
+0,Liquid, Povidone Iodine,Ma Ma Moe,86,True,0,0,15ml (1Bt),2350.0,-
+0,Syrup,Baby Cough Syrup,Ma Ma Moe,100,True,0,0,60ml(10 Bt),7900.0,-
+0,Tablets, Desloratidine,Ma Ma Moe,100,True,0,0,5 x 10's,4300.0,5mg
+0,Tablets, Gliclazide,Ma Ma Moe,100,True,0,0,3 x 20's,3400.0,80mg
+0,Tablets,Gliclazide,Ma Ma Moe,100,True,0,0,10 x 10's,8500.0,60mg
+0,Tablets,Mefenamic Acid,Ma Ma Moe,98,True,0,0,1Bx,8800.0,250mg
+0,Tablets, Dexamethasone Acetate ,Ma Ma Moe,98,True,0,0,10 x 10's,1100.0,0.5mg
+0,Tablets, Drotaverine,Ma Ma Moe,100,True,0,0,10 x 10's,4500.0,40mg
+0,Capsules, Doxycycline ,Ma Ma Moe,100,True,0,0,10 x 10's,2450.0,100mg
+0,Tablets,-,Ma Ma Moe,100,True,0,0,10 x 10's,3900.0,100mg
+0,Capsules, Esomeprazole,Ma Ma Moe,100,True,0,0,10 x 10's,6800.0,20mg
+0,Syrup,Paracetamol,Ma Ma Moe,58,True,0,0,60ml(1Bt),2100.0,120mg/5ml
+3,Syrup,Paracetamol,Ma Ma Moe,68,True,10500,5,60ml(1Bt),2100.0,120mg/5ml
+0,Syrup,Paracetamol,Ma Ma Moe,91,True,0,0,60ml(1Bt),3450.0,250mg/5ml
+0,Syrup,Paracetamol,Ma Ma Moe,96,True,0,0,60ml(1Bt),3450.0,250mg/5ml
+0,Tablets," Selenium, Vitamin A, Vitamin B6, Vitamin C, Vitamin E & Zn ",Ma Ma Moe,100,True,0,0,30's,6200.0,-
+0,Liquid,Sterile Eye Drops,Ma Ma Moe,100,True,0,0,5ml(1Bt),4200.0,0.2%
+0,Syrup,Herbal Extract (Multiple Ingredients),Ma Ma Moe,99,True,0,0,120ml(1Bt),2200.0,-
+0,Tablets, Ibuprofen & Paracetamol,Ma Ma Moe,97,True,0,0,10  x 10's,3500.0,-
+0,Liquid, Betamethasone Sodium Phosphate & Neomycin Sulphate,Ma Ma Moe,98,True,0,0,5ml(1Bt),1250.0,-
+0,Liquid,Betamethasone & Neomycin,Ma Ma Moe,98,True,0,0,5ml(1Bt),350.0,-
+0,Tablets,Calcium &  Cholecalciferol,Ma Ma Moe,100,True,0,0,10 x 10's,3950.0,500mg/250mg
+0,Tablets, Trimetazidine ,Ma Ma Moe,100,True,0,0,5 X 10's,10850.0,60mg
+0,Tablets,Nifedipine,Ma Ma Moe,100,True,0,0,10 x 10's,2400.0,20mg
+0,Syrup,"Ascorbic Acid, Sodium Ascorbate & Zinc Citrate",Ma Ma Moe,100,True,0,0,120ml(1Bt),2850.0,100mg/10mg
+0,Tablets,"Multivitamin , Iron , FA  & Lutein",Ma Ma Moe,100,True,0,0,250's,37000.0,-
+0,-,Vitamin C,Ma Ma Moe,100,True,0,0,20 x 10's,6500.0,-
+0,Syrup, Di Sodium Hydrogen Citrate ,Ma Ma Moe,100,True,0,0,100ml(1BT),2550.0,-
+0,Syrup,"Cpm, Dextromethorphan & Phenylephrine ",Ma Ma Moe,92,True,0,0,100ml(1Bt),2050.0,-
+0,Cream,Chloramphenicol,Ma Ma Moe,100,True,0,0,15g(1Bt),580.0,-
+0,Tablets,Gliclazide,Ma Ma Moe,100,True,0,0,10 x 10's,7800.0,80mg
+0,Gel,Clindamycin Phosphate,Ma Ma Moe,100,True,0,0,20g(1Bt),4550.0,-
+0,Gel,Clindamycin Phosphate,Ma Ma Moe,100,True,0,0,10g(1Bt),2650.0,-
+0,Tablets,Clindamycin ,Ma Ma Moe,100,True,0,0,5 x 10's,5800.0,150mg
+3,Tablets,Diclofenac & Paracetamol ,Ma Ma Moe,98,True,23250,5,3 x 10's,4650.0,50/500mg
+0,Cream," Beclomethasone , Clotrimazole  & Neomycin ",Ma Ma Moe,98,True,0,0,15g(1Bt),1350.0,-
+0,Tablets,"Vitamin B1 , B6 , B12",Ma Ma Moe,100,True,0,0,10 x 10's,7800.0,-
+0,Syrup, Guaiphenesin ,Ma Ma Moe,93,True,0,0,100ml(1Bt),3100.0,-
+0,Gel,Diclofenac diethylammon ,Ma Ma Moe,100,True,0,0,50g(1Bt),3100.0,-
+0,Spray,Diclofenac diethylammon ,Ma Ma Moe,100,True,0,0,143 ml(1Bt),5900.0,-
+0,Tablets,Warfarin,Ma Ma Moe,100,True,0,0,10 x 10's,8200.0,1mg
+0,Tablets, Warfarin,Ma Ma Moe,100,True,0,0,10 x 10's,13500.0,2mg
+0,Gel, Lip Therapy,Ma Ma Moe,100,True,0,0,7g(1Bt),7500.0,-
+0,Tablets,Vitamin C,Ma Ma Moe,100,True,0,0,50 x 2's,11900.0,500mg
+0,Tablets,Cinnarizine ,Ma Ma Moe,100,True,0,0,20 x 10's,8600.0,25mg
+0,Candy,Cough Relief Candy,Ma Ma Moe,100,True,0,0,105's,2450.0,-
+0,Syrup," Bromhexine, Guaiphenesin, Menthol &  Salbutamol",Ma Ma Moe,73,True,0,0,100ml(1Bt),1400.0,-
+0,Capsules,Multi Vitamins,Ma Ma Moe,100,True,0,0,12 x 10's,6200.0,-
+0,Cream,Acyclovir ,Ma Ma Moe,100,True,0,0,5g(1Bt),950.0,-
+0,Capsules,Vitamin E,Ma Ma Moe,100,True,0,0,10 x 10's,9550.0,-
+0,Cream,Diclofenac Diethylammon ,Ma Ma Moe,95,True,0,0,25g (1Bt),1680.0,-
+0,Cream,Diclofenac Diethylammon ,Ma Ma Moe,100,True,0,0,50g (1Bt),2600.0,-
+0,Inhaler,Salbutamol,Ma Ma Moe,100,True,0,0,1Bt,8500.0,-
+0,Capsules,Ursodeoxycholic acid & Vitamin B,Ma Ma Moe,100,True,0,0,6 x 10' s,13900.0,50mg
+0,Liquid,Panthenol,Ma Ma Moe,93,True,0,0,13ml(1Bt),2600.0,-
+0,Liquid,Eye Drops,Ma Ma Moe,100,True,0,0,12ml(1Bt),2700.0,-
+0,Tablets, Ursodeoxycholic Acid,Ma Ma Moe,100,True,0,0,3 x 10's,9350.0,150mg
+0,Tablets, Ursodeoxycholic Acid ,Ma Ma Moe,100,True,0,0,5 x 10's,28900.0,300mg
+0,Tablets,Multivitamin & Mineral,Ma Ma Moe,100,True,0,0,10's,5300.0,-
+0,Tablets,Multivitamin,Ma Ma Moe,100,True,0,0,20's,3100.0,-
+0,Tablets,Multivitamin & Mineral,Ma Ma Moe,100,True,0,0,20's,3500.0,-
+0,Tablets, Carbidopa & Levodopa,Ma Ma Moe,99,True,0,0,5 x 10's,7300.0,275mg
+0,Tablets, Ginkgo Biloba Extract,Ma Ma Moe,100,True,0,0,15 x 2's,9800.0,-
+0,Tablets,Allopurinol,Ma Ma Moe,100,True,0,0,5 x 10's,2350.0,100mg
+0,Tablets,Amlodipine,Ma Ma Moe,100,True,0,0,10 x 10's,1800.0,5mg
+0,Capsules,Ampicillin & Cloxacillin ,Ma Ma Moe,100,True,0,0,10 x 10's,3800.0,-
+0,Tablets,Tranexamic Acid ,Ma Ma Moe,100,True,0,0,2 x 10's,13200.0,500mg
+0,Powder,"Lactobacillus acidophilus , Bifidobacterium longum , Enterococcus fecalis & Streptococcus thermophilus ",Ma Ma Moe,100,True,0,0,30's,9700.0,-
+0,Tablets, Acarbose,Ma Ma Moe,100,True,0,0,10 x 10's,23900.0,100mg
+0,Tablets,Griseofulvin,Ma Ma Moe,100,True,0,0,10 x 10's,4000.0,125mg
+0,Plaster,Hansaplast,Ma Ma Moe,100,True,0,0,100's,3700.0,-
+0,Tablets,"Vitamin B1 , B6 , B12",Ma Ma Moe,100,True,0,0,10 x 10's,4000.0,-
+0,Capsules,"Ginseng , Multivitamins-Minerals",Ma Ma Moe,98,True,0,0,"5x6's(1Bx)
+",5197.5,500mg
+0,Gel," Aluminium Hydroxide , Magnesium Hydroxide , Methylpolysiloxane & Oxethazine ",Ma Ma Moe,100,True,0,0,180ml(1Bt),2350.0,-
+0,Plaster,Camphor & Menthol ,Ma Ma Moe,99,True,0,0,12's,1950.0,-
+0,Tablets, Carbidopa & Levodopa,Ma Ma Moe,99,True,0,0,5 x 10's,10700.0,-
+0,Tablets, Atorvastatin ,Ma Ma Moe,100,True,0,0,3 x 10's,2700.0,10mg
+0,Capsules,Tetracycline HCL,Ma Ma Moe,100,True,0,0,10x10's(1Bx),1550.0,250mg
+0,-,Melatonin,Ma Ma Moe,100,True,0,0,6 x 5's,9400.0,3mg
+0,Tablets,  Leflunomide,Ma Ma Moe,100,True,0,0,5 x 10's,17000.0,20mg
+0,Tablets, Atorvastatin,Ma Ma Moe,100,True,0,0,10 x 10's,7800.0,10mg
+0,Capsules, Docosahexaenoic Acid & Eicosapentaenoic Acid,Ma Ma Moe,100,True,0,0,300's,36400.0,-
+0,Capsules, Docosahexaenoic Acid & Eicosapentaenoic Acid,Ma Ma Moe,100,True,0,0,100's,13700.0,-
+0,Tablets,Metformin,Ma Ma Moe,100,True,0,0,10 x 10's,1650.0,500mg
+0,Tablets, Methylcobalamin,Ma Ma Moe,95,True,0,0,1Bx,6600.0,500mg
+0,Tablets, Amoxycillin ,Ma Ma Moe,100,True,0,0,10 x 10's,3850.0,500mg
+0,Tablets,Montelukast,Ma Ma Moe,100,True,0,0,10 x 10's,32500.0,10mg
+0,Tablets, Montelukast,Ma Ma Moe,100,True,0,0,5 x 10's,12000.0,5mg
+0,Tablets,Fluconazole,Ma Ma Moe,100,True,0,0,10 x 10's,5100.0,150mg
+0,Tablets,Fluconazole,Ma Ma Moe,100,True,0,0,4 x 25's,4450.0,150mg
+0,Tablets," Amylase, Calcium Pantothenate, Desoxycholic Acid, Dimethylpolysiloxane, Lipase, Niacinamide, Protease, Vitamin B1, Vitamin B12, Vitamin B2 & Vitamin B6",Ma Ma Moe,97,True,0,0,1Bx,30000.0,-
+0,Liquid, Hypromellose Eye Drops,Ma Ma Moe,100,True,0,0,10ml(1Bt),2250.0,-
+0,Gel, Methyl Salicylate ,Ma Ma Moe,100,True,0,0,20's,3950.0,-
+0,Capsules," Cyproheptadine , Multivitamin & Protein ",Ma Ma Moe,100,True,0,0,3 x 10's,1600.0,-
+0,Syrup, Ciprofloxacin & Tinidazole,Ma Ma Moe,100,True,0,0,200ml(1Bt),3300.0,-
+0,Syrup," Cyproheptadine, Multivitamin & Protein ",Ma Ma Moe,98,True,0,0,120ml(1Bt),1550.0,-
+0,Tablets,Allopurinol ,Ma Ma Moe,100,True,0,0,100's,4600.0,-
+0,Tablets,Esomeprazole Magnesium,Ma Ma Moe,100,True,0,0,10 x 10's,4100.0,-
+0,Capsules,"Iron , Vitamins B Complex , Zinc , Lycine",Ma Ma Moe,100,True,0,0,10 x 10's,12600.0,-
+0,Tablets, Lynestrenol,Ma Ma Moe,100,True,0,0,28's,3750.0,-
+0,Capsules,Potassium Chloride ,Ma Ma Moe,100,True,0,0,500's,15000.0,500mg
+0,Capsules,"Vitamin A , D3",Ma Ma Moe,98,True,0,0,10 x 10's,3300.0,-
+0,Tablets,"Anileridine , Diiodohydroxyquinoline , Furazolidone , Kaolin , Neomycin ",Ma Ma Moe,100,True,0,0,4 x 25's,11400.0,-
+0,Tablets,"DEXTROMETHORPHAN HBR 15MG,BROMHEXINE HCL 8MG",Ma Ma Moe,90,True,0,0,1Bx,4100.0,15MG/8MG
+0,Cream,Adapalene,Ma Ma Moe,99,True,0,0,15g(1Bt),5550.0,-
+0,Plaster,Salicylic Acid,Ma Ma Moe,100,True,0,0,4's,230.0,-
+5,Tablets, Paracetamol & Phenylpropanolamine HCL,Ma Ma Moe,90,True,27000,5,10x10's/1Bx,5400.0,500mg
+0,Tablets,Dextromethorphan ,Ma Ma Moe,95,True,0,0,1Bx,12000.0,-
+0,Tablets, Dequalinium CL,Ma Ma Moe,100,True,0,0,25 x 4's,10300.0,0.25mg
+0,Gel,Miconazole,Ma Ma Moe,100,True,0,0,1Bt,3150.0,20mg/2%
+0,Tablets,B-Complex & Vitamin C,Ma Ma Moe,90,True,0,0,30's/1Bx,5900.0,500mg
+0,Syrup,B-Complex & Vitamin C,Ma Ma Moe,99,True,0,0,60ml(1Bt),1750.0,-
+0,Tablets,Paracetamol ,Ma Ma Moe,99,True,0,0,10 x 10's,2950.0,500mg
+0,Cream, Benzalkonium Chloride and Cetrimide,Ma Ma Moe,100,True,0,0,55gm(1Bt),4900.0,-
+0,Cream, Metronidazole  & Povidone Iodine ,Ma Ma Moe,100,True,0,0,10gm(1Bt),1300.0,-
+0, Test Strips,Glucose Test Strips,Ma Ma Moe,100,True,0,0,25's,7300.0,-
+0,Cream," Beclometasone , Econazole and Gentamicin ",Ma Ma Moe,92,True,0,0,10gm(1Bt),980.0,-
+0,Tablets,Potassium Chloride,Ma Ma Moe,100,True,0,0,10 x 10's,3300.0,600mg
+0,Tablets, Enalapril,Ma Ma Moe,100,True,0,0,10 x 10's,1400.0,5mg
+0,Syrup,Multivitamins Syrup,Ma Ma Moe,100,True,0,0,100ml(1Bt),1900.0,-
+0,Liquid,Multivitamins Drops,Ma Ma Moe,100,True,0,0,15ml(1Bt),1500.0,-
+0,Powder," Bifidobacterium Lactis, Bifidobacterium Longum, Fructo-Oligosaccharide, Lactobacillus Acidophilus, Lactobacillus Plantarum, Lactobacillus Rhamnosus, Lactococcus Lactis & Streptococcus Thermophilus ",Ma Ma Moe,100,True,0,0,30's,7800.0,-
+0,Tablets,Metronidazole  ,Ma Ma Moe,100,True,0,0,6's,3500.0,-
+0,Capsules, Lincomycin,Ma Ma Moe,100,True,0,0,10 x 10's,8000.0,-
+0,Capsules, Fenofibrate ,Ma Ma Moe,100,True,0,0,4 x 7's,11900.0,-
+0,Tablets, Azithromycinum,Ma Ma Moe,100,True,0,0,3 x 10's,7100.0,500mg
+0,Gel, Metronidazole ,Ma Ma Moe,100,True,0,0,30g (1Bt),1700.0,-
+0,Cream, Miconazole,Ma Ma Moe,100,True,0,0,10g (1Bt),550.0,-
+0,Tablets,"Ethinyloestradiol , Levonorgestrel",Ma Ma Moe,100,True,0,0,28's,2500.0,30mg
+0,Tablets,Domperidone ,Ma Ma Moe,100,True,0,0,10 x 10's,3900.0,10mg
+0,Capsules, Amino Acids & Multivitamins ,Ma Ma Moe,100,True,0,0,10 x 10's (1Bx),5302.5,500mg
+0,Tablets, Nifedipine,Ma Ma Moe,100,True,0,0,10 x 10's,13650.0,20mg
+0,Tablets,Ketoconazole,Ma Ma Moe,100,True,0,0,10 x 10's,6350.0,200mg
+0,Capsules,Cefixime,Ma Ma Moe,100,True,0,0,3 x 10's,1050.0,100mg
+0,Tablets,Nitorol,Ma Ma Moe,100,True,0,0,10 x 10's,11500.0,5mg
+3,Tablets,-,Ma Ma Moe,100,True,13500,5,25 x 4's,2700.0,500mg
+0,Capsules,Piroxicam,Ma Ma Moe,100,True,0,0,12 x 10's,3150.0,20mg
+0,Tablets,Orphenadrine Citrate & Paracetamol ,Ma Ma Moe,99,True,0,0,10 x 10's,5350.0,-
+0,Tablets,Paracetamol & Orphenadrine Citrte,Ma Ma Moe,100,True,0,0,10 x 10's,6600.0,500/35mg
+0,Tablets, Metformin Hcl,Ma Ma Moe,99,True,0,0,10 x 10's,8550.0,1000mg
+0,Tablets, Metformin Hcl,Ma Ma Moe,99,True,0,0,10 x 10's,6250.0,500mg
+0,Tablets, Glyceryl Trinitrate,Ma Ma Moe,100,True,0,0,30's,3300.0,2.6mg
+0,Tablets, Chlorzoxazone & Paracetamol ,Ma Ma Moe,99,True,0,0,10 x 10's,5700.0,-
+0,Capsules,"Vitamin B1 , B6 , B12",Ma Ma Moe,100,True,0,0,10 x 10's,10550.0,-
+0,Syrup," Biotin , Choline Bitartrate , D-Panthenol , Dl-Methionine , Folic Acid , Nicotinamide , Multivitamins",Ma Ma Moe,98,True,0,0,200ml(1Bt),2000.0,-
+0,Tablets," Cyanocobalamin , Fursultiamine & Pyridoxine Hcl ",Ma Ma Moe,100,True,0,0,10 x 10's,10600.0,-
+0,Solution,Sodium Chloride ,Ma Ma Moe,100,True,0,0,12amp,3950.0,5ml
+0,Tablets,Pioglitazone,Ma Ma Moe,100,True,0,0,5 x 10' s,4500.0,15mg
+0,Tablets, Piracetam,Ma Ma Moe,100,True,0,0,10 x 10's,3050.0,400mg
+0,Lozenges,Dichlorobenzuyl Alcohol Amylmetacresol,Ma Ma Moe,100,True,0,0,1Bx,2750.0,-
+0,Cream,Mupirocin Topical ,Ma Ma Moe,100,True,0,0,5gm (1Bt),2550.0,-
+0,Eye Drops,"Tobramycin , Dexamethasone",Ma Ma Moe,100,True,0,0,5ml (1Bt),4100.0,-
+5,Tablets,Dried aluminium hydroxide gel & Magnesium hydroxide & Simeticone ,Ma Ma Moe,100,True,86000,5,50 x 10's,17200.0,430mg
+0,Cream,"Betamethasone Dipropionate , Clotrimazole & Gentamicin ",Ma Ma Moe,100,True,0,0,10gm (5Bt),4150.0,-
+0,Tablets, ANTACID & ANTIFLATULENT,Ma Ma Moe,100,True,0,0,"10x10's(1Bx)
+",3622.5,-
+0,Cream, Silver Sulfadiazine,Ma Ma Moe,100,True,0,0,25gm (1Bt),1150.0,100g
+0,Capsules," Calcium Pantothenate , Cyanocobalamin , Nicotinamide , Pyridoxine Hydrochloride , Riboflavin , Silymarin & Thiamine Hydrochloride",Ma Ma Moe,99,True,0,0,60's,9750.0,1000mg
+0,Capsules,COENZYME Q10,Ma Ma Moe,100,True,0,0,30's,6050.0,100mg
+0,Capsules,Amoxycillin,Ma Ma Moe,100,True,0,0,10 x 10's,1480.0,250mg
+0,Capsules,Dutasteride  ,Ma Ma Moe,100,True,0,0,3 x 10's,8500.0,-
+0,Tablets, Doxazosin,Ma Ma Moe,95,True,0,0,5 x 10's,8950.0,2mg
+2,Tablets, ORPHENADRINE CITRATE 35MG + PARACETAMOL 450MG,Ma Ma Moe,89,True,21750,5,10 x 10's,4350.0,35/450mg
+0,Tablets, Paracetamol,Ma Ma Moe,99,True,0,0,10x10's/1Bx,3480.0,-
+0,Cream,Fluocinolone,Ma Ma Moe,100,True,0,0,15gm (1Bt),2300.0,-
+0,Capsules,Pregabalin ,Ma Ma Moe,100,True,0,0,2 x 7's,5200.0,75mg
+0,Tablets," Poly Di Methyl Siloxane , Dried Aluminium Hydroxide , Magnesium Aluminium Silicate & Magnesium Hydroxide",Ma Ma Moe,100,True,0,0,9 x 10's,1320.0,-
+0,Gel,Triamcinolone Acetonide ,Ma Ma Moe,100,True,0,0,50's,9300.0,-
+0,Tablets,"Poly Methylsiloxane , Aluminium Hydroxide & Magnesium Hydroxide ",Ma Ma Moe,100,True,0,0,10 x 10's,4550.0,-
+0,Capsules, Ginkgo Biloba Phytosome ,Ma Ma Moe,100,True,0,0,3 x 10's,9400.0,-
+0,Capsules,Korean Ginseng,Ma Ma Moe,100,True,0,0,60's,12900.0,870mg
+0,Cream,Miconazole,Ma Ma Moe,99,True,0,0,12Tube ,11400.0,2%
+0,Tablets,Mebendazole ,Ma Ma Moe,95,True,0,0,1's,1030.0,500mg
+0,Capsules,"Arginine Tidiacicate , Ascorbic Acid , Riboflavin ,Thiamine HCl",Ma Ma Moe,99,True,0,0,30's,6300.0,-
+0,Cream, Mucopolysaccharide Polysulfate,Ma Ma Moe,100,True,0,0,5g (1Bt),1450.0,-
+0,Capsules,Loperamide Hydrochloride,Ma Ma Moe,100,True,0,0,4 x 25's,20300.0,2mg
+0,Tablets,Ketoconazole ,Ma Ma Moe,100,True,0,0,10 x 10's,10500.0,200mg
+0,Lozenges, Dextromethorphan-Benzocaine,Ma Ma Moe,100,True,0,0,1Bx,7800.0,-
+0,Tablets,Bromelain & Crystalline Trypsin ,Ma Ma Moe,100,True,0,0,10 x 10's,3850.0,-
+0,Liquid,Antiseptic Mouthwash,Ma Ma Moe,100,True,0,0,80ml (1Bt),920.0,-
+0,Tablets,Ribavirin ,Ma Ma Moe,100,True,0,0,5 x 30's,18800.0,-
+0,Tablets, Dicyclomine HCL & Mefenamic Acid,Ma Ma Moe,100,True,0,0,30 x 10's,14200.0,250mg
+0,Tablets," Alpinia Galanga , Boswellia Serrata , Commiphora Wightii , Glycyrrhiza Glabra , Tinospora Cordifolia & Tribulus Terrestris",Ma Ma Moe,100,True,0,0,2 x 30's,11200.0,-
+0,Syrup,Paracetamol and Sugar Syrup,Ma Ma Moe,91,True,0,0,60ml (1Bt),1150.0,120mg/5ml
+0,Tablets,Nicergoline,Ma Ma Moe,100,True,0,0,50's,10250.0,10mg
+0,Oil,Olive Oil,Ma Ma Moe,99,True,0,0,150ml (1Bt),3300.0,-
+0,Capsules,Propranolol,Ma Ma Moe,99,True,0,0,5 x 4's,4500.0,-
+0,Tablets,Prednisolone ,Ma Ma Moe,100,True,0,0,10 x 10's,2600.0,5mg
+0,Inhaler,Mark 11 Inhaler,Ma Ma Moe,100,True,0,0,6 x 5's,0.0,-
+0,Injection,Amino Acids & Sorbitol ,Ma Ma Moe,99,True,0,0,20ml (1 x 5amp),0.0,200mg
+0,Tablets,Domperidone,Ma Ma Moe,100,True,0,0,10 X 10's,1150.0,10mg
+0,Syrup,"Ambroxol , Cetirizine",Ma Ma Moe,100,True,0,0,60ml (1Bt x 5),7000.0,60/5mg
+0,Tablets,"Ambroxol , Cetirizine",Ma Ma Moe,100,True,0,0,10 x 2 x 10's,17700.0,60/5mg
+0,Lozenges,"Amylocaine Hcl , Bacitracin & Neomycin ",Ma Ma Moe,99,True,0,0,1Bx,0.0,2.5mg/0.5mg
+0,Tablets,Amlodipine,Ma Ma Moe,100,True,0,0,10 x 10's,7100.0,10mg
+0,Syrup,AMPICILLIN 250,Ma Ma Moe,100,True,0,0,60ml(1Bt),1560.0,250mg
+0,Injection,AMPICILLIN,Ma Ma Moe,100,True,0,0,10'amp,0.0,250mg
+0,Capsules,AMPICILLIN CAPSULES BP 250MG,Ma Ma Moe,99,True,0,0,10 x 10's,2000.0,250mg
+0,Tablet,Levofloxacin,"MediLif Trading Co.,Ltd",99,True,0,0,10x5x2's(1Bx),13750.0,500 mg
+0,Tablet,Ofloxacin,"MediLif Trading Co.,Ltd",99,True,0,0,10x10's(1Bx),4000.0,200 mg
+0,Spray,Saline Nasal Spray,"MediLif Trading Co.,Ltd",99,True,0,0,1 Bt,1200.0,20 ml
+0,Tablets,Azithromycin,"MediLif Trading Co.,Ltd",89,True,0,0,3 x 1's(1Bx),1400.0,500 mg
+0,Tablets,Cetirizine,"MediLif Trading Co.,Ltd",89,True,0,0,10 x 10's(1Bx),1400.0,10 mg
+0,Tablets,Amlodipine,"MediLif Trading Co.,Ltd",84,True,0,0,10 x 10's(1Bx),2550.0,5 mg
+0,Capsules,Omeprazole,Ma Ma Moe,100,True,0,0,10 x 10's,1250.0,20mg
+0,Tablets,Nimesulide,Ma Ma Moe,100,True,0,0,10x10's(1Bx),7560.0,50mg
+0,Tablet,"VitaminB1,B6,B12",Ma Ma Moe,100,True,0,0,10 x 10's (1Bx),4935.0,500mg/250mg/1mg
+0,Caplet,Multivitamins & Minerals,Ma Ma Moe,99,True,0,0, 1Bt,7360.0,500mg
+0,Tablet,Polymigel,Ma Ma Moe,99,True,0,0,1Bx,5175.0,400mg
+0,Tablet,Amlodipine,Ma Ma Moe,93,True,0,0,3 x 10's (1Bx),3045.0,5mg
+0,Tablet,-,Ma Ma Moe,100,True,0,0,10 x 10's (1Bx),6300.0,500mg
+0,Tablet, Atorvastatin & Ezetimibe ,Ma Ma Moe,99,True,0,0,2x10x5's,0.0,10mg/10mg
+0,Tablet,Aceclofenac,"MediLif Trading Co.,Ltd",99,True,0,0,10x10's(1Bx),3700.0,100mg
+0,Tablet,Rabeprazole,"MediLif Trading Co.,Ltd",99,True,0,0,10x10's(1Bx),3700.0,10mg
+0,Tablet,Losartan Potassium,"MediLif Trading Co.,Ltd",98,True,0,0,10 x 10's,3900.0,25mg
+0,Tablet, Azithromycin ,Thamardaw Team,99,True,0,0,10 x 3's,0.0,500mg
+2,Tablet,Vitamin B1+B6,Thamardaw Team,73,True,0,10,10x10's,0.0,100/200mg
+0,Tablet,Iron(ii)Fumarate,Thamardaw Team,100,True,0,0,10x10's,0.0,50mg
+0,Tablet,Amlodipine,Thamardaw Team,95,True,0,0,10x10's,0.0,5mg
+0,Capsule, Minerals & Multivitamin ,Thamardaw Team,100,True,0,0,10x10's/1Bx,13356.0,500mg
+0,Softgel Capsule,VITAMIN B COMPLEX,Thamardaw Team,100,True,0,0,3x10's/1Bx,4452.0,500mg
+0,Softgel Capsule,PRENATAL DRUG,Thamardaw Team,100,True,0,0,3x10's/1Bx,0.0,500mg
+0,Capsule,B Complex & Vitamin C,Thamardaw Team,200,True,0,0,100's/1Bx,15600.0,500mg
+0,Tablet,METFORMIN,Thamardaw Team,150,True,0,0,10x10's/1Bx,8760.0,500mg
+0,Tablet,METFORMIN,Thamardaw Team,150,True,0,0,15x8's/1Bx,16800.0,850mg
+0,Tablet,Amlodipine,Thamardaw Team,100,True,0,0,1Bx,8040.0,10mg
+0,Tablet,SIMETHICONE,Thamardaw Team,100,True,0,0,10x10's/1Bx,5040.0,80mg
+0,Powder,For Babies 0-12Months,Thamardaw Team,100,True,0,0,1 Tin,13217.5,-
+0,Powder,For Babies 0-12Months	-,Thamardaw Team,100,True,0,0,1 Tin,8712.5,-
+0,Powder,Dupro Step 2 ,Thamardaw Team,100,True,0,0,1Tin,11900.0,-
+0,Powder,Dupro Step 2 ,Thamardaw Team,100,True,0,0,1 Tin,8415.0,-
+1,Powder,For Children after 2 Years to 9 Years,Thamardaw Team,100,True,112030,10,1 Tin,11203.0,-
+0,Powder,For Children after 2 Years to 9 Years,Thamardaw Team,100,True,0,0,1 Tin,6842.5,-
+0,Tablet,domperidone,Ma Ma Moe,30,True,0,0,10 x 10,1300.0,10 mg
+0,Tablet, Multivitamin B1+B6,Thamardaw Team,92,True,0,0,10x10's/1Bx,0.0,-
+0,Powder,Caluro Clofein,Bu Enterprise,447,True,0,0,10 tube,4500.0,250mg

@@ -1,0 +1,218 @@
+form,genericName,id,orderstatus,ordertime,packaging,quantity,strength
+Injection,Methylprednisolone Acetate,Chan-store,8,2018-09-06T05:35:46.000Z,"5ml(5Vial)
+",1,40 mg
+Tablet,Ranitidine,Chan-store,8,2018-09-06T05:35:46.000Z,15 x 30's (1Bx),1,150mg
+Cream,"Betamethasone valerate, Gentamycin sulphate, Miconazole nitrate",Chan-store,8,2018-09-06T05:35:46.000Z,1Bt,2,20 g
+Tablets,Atenolol,Chan-store,8,2018-09-06T05:35:46.000Z,14 x 2's (1Bx),2,25 mg
+Solution,Povidone lodine,Chan-store,8,2018-09-06T05:35:46.000Z,1 Bx,2,-
+Injection,Methylprednisolone Acetate,Chan-store,8,2018-09-06T05:36:54.000Z,"5ml(5Vial)
+",1,40 mg
+Tablet,Ranitidine,Chan-store,8,2018-09-06T05:36:54.000Z,15 x 30's (1Bx),1,150mg
+Cream,"Betamethasone valerate, Gentamycin sulphate, Miconazole nitrate",Chan-store,8,2018-09-06T05:36:54.000Z,1Bt,2,20 g
+Injection,Methylprednisolone Acetate,Chan-store,8,2018-09-06T05:39:51.000Z,"5ml(5Vial)
+",2,40 mg
+Cream,"Betamethasone valerate, Gentamycin sulphate, Miconazole nitrate",Chan-store,8,2018-09-06T05:39:51.000Z,1Bt,4,20 g
+Tablets,Aceclofenac,Chan-store,8,2018-09-06T05:39:51.000Z,10x10's (1Bx),3,100 mg
+Tablets,"Ampicillin,Cloxacillin
+",Chan-store,8,2018-09-06T05:39:51.000Z,1Bx,3,250mg
+Tablets,Albendazole,Chan-store,8,2018-09-06T05:39:51.000Z,10 x 10's x 1,3,400 mg
+Injection,Methylprednisolone Acetate,Chan-store,7,2018-09-06T05:41:17.000Z,"5ml(5Vial)
+",2,40 mg
+Cream,"Betamethasone valerate, Gentamycin sulphate, Miconazole nitrate",Chan-store,7,2018-09-06T05:41:17.000Z,1Bt,4,20 g
+Tablets,Aceclofenac,Chan-store,7,2018-09-06T05:41:17.000Z,10x10's (1Bx),3,100 mg
+Tablets,"Ampicillin,Cloxacillin
+",Chan-store,7,2018-09-06T05:41:17.000Z,1Bx,3,250mg
+Tablets,Albendazole,Chan-store,7,2018-09-06T05:41:17.000Z,10 x 10's x 1,3,400 mg
+Tablets,Prednisolone,Cho,7,2018-09-06T05:47:01.000Z,10 x 10's,2,5mg
+Injection,Diclofenac Sodium,Cho,7,2018-09-06T05:47:01.000Z,1 Bx,2,75mg
+Tablets,Amoxycilin trihydrate + Clavulanate potassium,Cho,7,2018-09-06T05:47:01.000Z,10 x 10's,2,625mg
+Tablet,Losartan Potassium,Thiri,8,2018-09-10T05:09:21.000Z,10 x 10's,1,25mg
+Capsules,Amoxicillin ,Thiri,7,2018-09-10T05:09:21.000Z,10x10's,1,500mg
+Tablets, Ibuprofen & Paracetamol,Thiri,8,2018-09-10T05:09:21.000Z,10  x 10's,1,-
+Capsules,Propranolol,Thiri,8,2018-09-10T05:09:21.000Z,5 x 4's,1,-
+Gel,Skincare Gel,Thiri,8,2018-09-10T05:09:21.000Z,7gm (1 Bt),1,-
+Tablets,Mebendazole ,Thiri,8,2018-09-10T05:09:21.000Z,1's,1,500mg
+Liquid,Skincare Oil,Thiri,8,2018-09-10T05:09:21.000Z,60ml (1 Bt),1,-
+-,-,Thiri,8,2018-09-10T05:09:21.000Z,-,1,-
+-,-,Thiri,8,2018-09-10T05:09:21.000Z,-,1,-
+Tablets,Domperidone,Thiri,8,2018-09-10T05:09:21.000Z,10 x 10's,1,10mg
+Tablets,Azithromycin,Top Star,7,2018-09-23T02:43:53.000Z,10 x 10's,1,500mg
+Tablets,Amlodipine,Top Star,7,2018-09-23T02:43:53.000Z,3 x 10's,1,10mg
+Capsules,Ascorbic acid ,Top Star,7,2018-09-23T02:43:53.000Z,1Bx,1,500mg
+Capsules,Ibuprofen & Paracetamol,Top Star,7,2018-09-23T02:43:53.000Z,10 x 10's,1,200mg/325mg
+Tablets,Co-trimoxazole,Top Star,7,2018-09-23T02:43:53.000Z,"
+1Bx",2,80 mg/400 mg
+Capsules,Antioxidant Vitamin,Top Star,7,2018-09-23T02:43:53.000Z,1Bx,3,500mg
+Capsules,Multivitamins,Top Star,7,2018-09-23T02:43:53.000Z,1Bx,2,-
+Syrup,Multivitain,Top Star,7,2018-09-23T02:43:53.000Z,60ml (1 Bt),2,-
+Solution,Povidone lodine,Top Star,7,2018-09-23T02:43:53.000Z,1 Bx,1,-
+Cream,Ketoconazole ,Top Star,7,2018-09-23T02:43:53.000Z,10Tube,2,5g
+Tablets, Minerals and Multivitamins,Top Star,7,2018-09-23T02:43:53.000Z,10 x 10's,1,-
+Tablets,Losartan,Top Star,7,2018-09-23T02:43:53.000Z,1Bx,1,50mg
+Lozenges, Dextromethorphan Hydrobromide Monohydrate,Top Star,7,2018-09-23T02:43:53.000Z,1Bx,2,-
+Lozenge ,Dichlorobenzyl Alcohol & Amylmetacresol ,Top Star,7,2018-09-23T02:43:53.000Z,1Bx,2,-
+Tablets,Decongestant Tablets,Top Star,7,2018-09-23T02:43:53.000Z,1Bx,2,-
+Liquid, Povidone Iodine,Top Star,7,2018-09-23T02:43:53.000Z,15ml (1Bt),3,-
+Syrup,Paracetamol,Top Star,7,2018-09-23T02:43:53.000Z,60ml(1Bt),4,120mg/5ml
+Syrup,Paracetamol,Top Star,7,2018-09-23T02:43:53.000Z,60ml(1Bt),4,120mg/5ml
+Syrup,Paracetamol,Top Star,7,2018-09-23T02:43:53.000Z,60ml(1Bt),3,250mg/5ml
+Tablets,Paracetamol,Top Star,7,2018-09-23T02:43:53.000Z,1Bx,1,500mg
+Cream,Pain Relieving Cream,Top Star,7,2018-09-23T02:43:53.000Z,30gm(1 Bt),5,-
+Cream,Miconazole,Top Star,7,2018-09-23T02:43:53.000Z,12Tube ,1,2%
+Tablets,Ranitidine,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,10 x 10's,2,150mg
+Syrup, Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1 Bt,2,250mg/5ml
+Tablets,Ibuprofen,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,1,200mg
+Tablets,Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,1,500mg
+Tablets,B-Complex & Vitamin C,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,30's/1Bx,2,500mg
+Tablets,Dextromethorphan ,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,1,-
+Tablets,"DEXTROMETHORPHAN HBR 15MG,BROMHEXINE HCL 8MG",လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,2,15MG/8MG
+Tablets, Methylcobalamin,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,1,500mg
+Syrup," Bromhexine, Guaiphenesin, Menthol &  Salbutamol",လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,100ml(1Bt),5,-
+Syrup,Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,60ml(1Bt),6,120mg/5ml
+Gel,Skincare Gel,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,5gm ( 1Bt ),3,-
+Tablets, Minerals and Multivitamins,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,10 x 10's,1,-
+Jelly,Vitamin C,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,1,-
+Tablets,Amlodipine,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,2,5mg
+Tablets,Ibuprofen & Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,1,200mg/325mg
+Capsules, Vitamins & Minerals & Zinc Nutritional Food Supplement,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,1,-
+Capsules,Antioxidant Vitamin,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,3,500mg
+Capsules,Ascorbic acid ,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,3,500mg
+Tablets,Domperidone,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,1,10mg
+Tablets,Amlodipine,လာဘ်များရှင်,8,2018-09-24T08:46:07.000Z,1Bx,2,5 mg
+Tablets,Ranitidine,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,10 x 10's,2,150mg
+Syrup, Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1 Bt,2,250mg/5ml
+Tablets,Ibuprofen,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,1,200mg
+Tablets,Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,1,500mg
+Tablets,B-Complex & Vitamin C,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,30's/1Bx,2,500mg
+Tablets,Dextromethorphan ,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,1,-
+Tablets,"DEXTROMETHORPHAN HBR 15MG,BROMHEXINE HCL 8MG",လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,2,15MG/8MG
+Tablets, Methylcobalamin,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,1,500mg
+Syrup," Bromhexine, Guaiphenesin, Menthol &  Salbutamol",လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,100ml(1Bt),5,-
+Syrup,Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,60ml(1Bt),6,120mg/5ml
+Gel,Skincare Gel,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,5gm ( 1Bt ),3,-
+Tablets, Minerals and Multivitamins,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,10 x 10's,1,-
+Jelly,Vitamin C,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,1,-
+Tablets,Amlodipine,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,2,5mg
+Tablets,Ibuprofen & Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,1,200mg/325mg
+Capsules, Vitamins & Minerals & Zinc Nutritional Food Supplement,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,1,-
+Capsules,Antioxidant Vitamin,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,3,500mg
+Capsules,Ascorbic acid ,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,3,500mg
+Tablets,Domperidone,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,1,10mg
+Tablets,Amlodipine,လာဘ်များရှင်,8,2018-09-24T08:46:11.000Z,1Bx,2,5 mg
+Tablets,Ranitidine,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,10 x 10's,2,150mg
+Syrup, Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1 Bt,2,250mg/5ml
+Tablets,Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,1,500mg
+Tablets,B-Complex & Vitamin C,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,30's/1Bx,2,500mg
+Tablets,Dextromethorphan ,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,1,-
+Tablets,"DEXTROMETHORPHAN HBR 15MG,BROMHEXINE HCL 8MG",လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,2,15MG/8MG
+Tablets, Methylcobalamin,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,1,500mg
+Syrup," Bromhexine, Guaiphenesin, Menthol &  Salbutamol",လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,100ml(1Bt),5,-
+Syrup,Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,60ml(1Bt),6,120mg/5ml
+Gel,Skincare Gel,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,5gm ( 1Bt ),3,-
+Tablets,Ibuprofen,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,1,200mg
+Tablets, Minerals and Multivitamins,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,10 x 10's,1,-
+Jelly,Vitamin C,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,1,-
+Tablets,Amlodipine,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,2,5mg
+Tablets,Ibuprofen & Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,1,200mg/325mg
+Capsules, Vitamins & Minerals & Zinc Nutritional Food Supplement,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,1,-
+Capsules,Antioxidant Vitamin,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,3,500mg
+Capsules,Ascorbic acid ,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,3,500mg
+Tablets,Domperidone,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,1,10mg
+Tablets,Amlodipine,လာဘ်များရှင်,8,2018-09-24T08:46:34.000Z,1Bx,2,5 mg
+Tablets,Ranitidine,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,10 x 10's,2,150mg
+Syrup, Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1 Bt,2,250mg/5ml
+Tablets,Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,1,500mg
+Tablets,B-Complex & Vitamin C,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,30's/1Bx,2,500mg
+Tablets,Dextromethorphan ,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,1,-
+Tablets,"DEXTROMETHORPHAN HBR 15MG,BROMHEXINE HCL 8MG",လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,2,15MG/8MG
+Tablets, Methylcobalamin,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,1,500mg
+Syrup," Bromhexine, Guaiphenesin, Menthol &  Salbutamol",လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,100ml(1Bt),5,-
+Syrup,Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,60ml(1Bt),6,120mg/5ml
+Gel,Skincare Gel,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,5gm ( 1Bt ),3,-
+Tablets,Ibuprofen,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,1,200mg
+Tablets, Minerals and Multivitamins,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,10 x 10's,1,-
+Jelly,Vitamin C,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,1,-
+Tablets,Amlodipine,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,2,5mg
+Tablets,Ibuprofen & Paracetamol,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,1,200mg/325mg
+Capsules, Vitamins & Minerals & Zinc Nutritional Food Supplement,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,1,-
+Capsules,Antioxidant Vitamin,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,3,500mg
+Capsules,Ascorbic acid ,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,3,500mg
+Tablets,Domperidone,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,1,10mg
+Tablets,Amlodipine,လာဘ်များရှင်,8,2018-09-24T08:46:37.000Z,1Bx,2,5 mg
+Tablets,Ranitidine,လာဘ်များရှင်,1,2018-09-25T05:18:49.000Z,10 x 10's,2,150mg
+Syrup,Paracetamol,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,60ml(1Bt),6,120mg/5ml
+Gel,Skincare Gel,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,5gm ( 1Bt ),3,-
+Tablets,Ibuprofen,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,1,200mg
+Syrup, Paracetamol,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1 Bt,2,250mg/5ml
+Tablets,Paracetamol,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,1,500mg
+Tablets,B-Complex & Vitamin C,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,30's/1Bx,2,500mg
+Tablets,Dextromethorphan ,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,1,-
+Tablets,"DEXTROMETHORPHAN HBR 15MG,BROMHEXINE HCL 8MG",လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,2,15MG/8MG
+Tablets, Methylcobalamin,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,1,500mg
+Syrup," Bromhexine, Guaiphenesin, Menthol &  Salbutamol",လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,100ml(1Bt),5,-
+Tablets, Minerals and Multivitamins,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,10 x 10's,1,-
+Jelly,Vitamin C,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,1,-
+Tablets,Amlodipine,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,2,5mg
+Tablets,Ibuprofen & Paracetamol,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,1,200mg/325mg
+Capsules, Vitamins & Minerals & Zinc Nutritional Food Supplement,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,1,-
+Capsules,Antioxidant Vitamin,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,3,500mg
+Capsules,Ascorbic acid ,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,3,500mg
+Tablets,Domperidone,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,1,10mg
+Tablets,Amlodipine,လာဘ်များရှင်,7,2018-09-25T05:18:49.000Z,1Bx,2,5 mg
+Capsules,IBUPROFEN & PARACETAMOL,လာဘ်များရှင်,8,2018-09-25T05:33:01.000Z,10 x 10's,2,500mg
+Cream,Ketoconazole,လာဘ်များရှင်,8,2018-09-25T05:33:01.000Z,1 Tube ,10,15g
+Liquid,Multivitamins Plus,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,30ml (1 Bt),3,-
+Tablets,Multivitamin	Multivitamin,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,1Bx,3,-
+Capsules,Multivitamins,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,1Bx,1,-
+Syrup," Bromhexine, Guaifenesin, Menthol & Terbutaline",လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,100ml (1 Bt),5,-
+Lozenge ,Dichlorobenzyl Alcohol & Amylmetacresol ,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,1Bx,2,-
+Tablets, Cinnarizine,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,1Bx,10,25mg
+Tablets,"Ampicillin,Cloxacillin
+",လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,1Bx,2,250mg
+Tablets,Atussin,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,1 Bx,1,25mg
+Capsules, Vitamins & Minerals & Zinc Nutritional Food Supplement,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,1Bx,1,-
+Syrup,Chlorpheniramine &  Dextromethorphan ,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,100ml (1 Bt),3,-
+Syrup,Multivitamins,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,110ml (1 Bt),3,-
+Plaster,Capsicum Plaster,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,24's,2,-
+Liquid, Povidone Iodine,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,15ml (1Bt),5,-
+Tablets,Mefenamic Acid,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,1Bx,1,250mg
+Syrup,Paracetamol,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,60ml(1Bt),3,120mg/5ml
+Syrup,"Cpm, Dextromethorphan & Phenylephrine ",လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,100ml(1Bt),3,-
+Syrup, Guaiphenesin ,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,100ml(1Bt),2,-
+Cream,Diclofenac Diethylammon ,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,25g (1Bt),1,-
+Liquid,Panthenol,လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,13ml(1Bt),3,-
+Tablets," Amylase, Calcium Pantothenate, Desoxycholic Acid, Dimethylpolysiloxane, Lipase, Niacinamide, Protease, Vitamin B1, Vitamin B12, Vitamin B2 & Vitamin B6",လာဘ်များရှင်,7,2018-09-25T05:33:01.000Z,1Bx,1,-
+Capsules,IBUPROFEN & PARACETAMOL,လာဘ်များရှင်,1,2018-09-25T05:33:03.000Z,10 x 10's,2,500mg
+Cream,Ketoconazole,လာဘ်များရှင်,1,2018-09-25T05:33:03.000Z,1 Tube ,10,15g
+Syrup," Bromhexine, Guaifenesin, Menthol & Terbutaline",လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,100ml (1 Bt),5,-
+Tablets, Cinnarizine,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,1Bx,10,25mg
+Tablets,"Ampicillin,Cloxacillin
+",လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,1Bx,2,250mg
+Tablets,Atussin,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,1 Bx,1,25mg
+Capsules, Vitamins & Minerals & Zinc Nutritional Food Supplement,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,1Bx,1,-
+Syrup,Chlorpheniramine &  Dextromethorphan ,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,100ml (1 Bt),3,-
+Liquid,Multivitamins Plus,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,30ml (1 Bt),3,-
+Tablets,Multivitamin	Multivitamin,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,1Bx,3,-
+Lozenge ,Dichlorobenzyl Alcohol & Amylmetacresol ,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,1Bx,2,-
+Capsules,Multivitamins,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,1Bx,1,-
+Syrup,Multivitamins,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,110ml (1 Bt),3,-
+Plaster,Capsicum Plaster,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,24's,2,-
+Liquid, Povidone Iodine,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,15ml (1Bt),5,-
+Tablets,Mefenamic Acid,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,1Bx,1,250mg
+Syrup,Paracetamol,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,60ml(1Bt),3,120mg/5ml
+Syrup,"Cpm, Dextromethorphan & Phenylephrine ",လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,100ml(1Bt),3,-
+Syrup, Guaiphenesin ,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,100ml(1Bt),2,-
+Cream,Diclofenac Diethylammon ,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,25g (1Bt),1,-
+Liquid,Panthenol,လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,13ml(1Bt),3,-
+Tablets," Amylase, Calcium Pantothenate, Desoxycholic Acid, Dimethylpolysiloxane, Lipase, Niacinamide, Protease, Vitamin B1, Vitamin B12, Vitamin B2 & Vitamin B6",လာဘ်များရှင်,8,2018-09-25T05:33:03.000Z,1Bx,1,-
+Tablets,Azithromycin,Dylan,8,2018-09-28T07:56:34.000Z,3 x 1's(1Bx),1,500 mg
+Tablets,Cetirizine,Dylan,8,2018-09-28T07:56:34.000Z,10 x 10's(1Bx),1,10 mg
+Tablets,Amlodipine,Dylan,8,2018-09-28T07:56:34.000Z,10 x 10's(1Bx),1,5 mg
+Tablet,Aceclofenac,Dylan,8,2018-09-28T07:56:34.000Z,10x10's(1Bx),1,100mg
+Tablet,Rabeprazole,Dylan,8,2018-09-28T07:56:34.000Z,10x10's(1Bx),1,10mg
+Tablet,Losartan Potassium,Dylan,8,2018-09-28T07:56:34.000Z,10 x 10's,1,25mg
+Tablet,Levofloxacin,Dylan,8,2018-09-28T07:56:34.000Z,10x5x2's(1Bx),1,500 mg
+Tablet,Ofloxacin,Dylan,8,2018-09-28T07:56:34.000Z,10x10's(1Bx),1,200 mg
+Spray,Saline Nasal Spray,Dylan,8,2018-09-28T07:56:34.000Z,1 Bt,1,20 ml
+Tablets,Azithromycin,Dylan,8,2018-09-28T07:59:15.000Z,3 x 1's(1Bx),10,500 mg
+Tablets,Cetirizine,Dylan,8,2018-09-28T07:59:15.000Z,10 x 10's(1Bx),10,10 mg

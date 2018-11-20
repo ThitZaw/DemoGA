@@ -1,0 +1,27 @@
+{% extends 'core/base.html' %}
+{% block content %}
+         <div class="row">
+          <div class="col-sm-6">
+          <div style="padding: 35px;"><h2>Buyers</h2>
+          <p>Buyers List</p>
+            {{buyers | safe}}
+            <p><h4>Buyer Total Order Qunatity : {{BIQ}}</h4></p>
+          </div>
+          </div>
+          <div class="col-sm-9">
+          <div style="padding: 35px;"><h2>Sellers</h2>
+          <p>Sellers List</p>
+            {{sellers | safe}}
+            <p><h4>Seller Total Inventory Qunatity : {{SIQ}}</h4></p>
+          </div>
+          </div>
+        </div>
+      <form action="{% url 'result' %}" method="post">
+       {% csrf_token %}
+        <input type="hidden" name="buyer" value="{{buyer_df}}">
+        <input type="hidden" name="seller" value="{{seller_df}}">
+        <input type="hidden" name="BIQ" value="{{BIQ}}">
+        <input type="hidden" name="SIQ" value="{{SIQ}}">
+       <button type="submit" class="btn btn-success" >Optimize</button>
+      </form>
+{% endblock %}

@@ -1,0 +1,54 @@
+{% extends 'core/base.html' %}
+{% block content %}
+        </div>
+        <div class="row">
+          <div class="col-sm-6">
+             <p>
+                {% if error_message %}Hello, {{ error_message }}.
+                {% elif not error_message  %}
+                 <table class="table table-border">
+                     <caption>Best Fittest Pairs</caption>
+                     <thead>
+                        <th>Sellers</th><th>Buyers</th>
+                     </thead>
+                     <tbody>
+                     {% for key,value in flipped.items %}
+                        <tr>
+                            <td>{{ key }}</td>
+                            <td>
+                                {% for v in value %}
+                                    {{ v }},
+                                {% endfor %}
+                            </td>
+                        </tr>
+                     {% endfor %}
+                    </tbody>
+                </table>
+              <p> Total Saving is {{ totalsaving }}</p>
+
+              <table class="table table-border">
+                     <caption>Each Buyer's Saving</caption>
+                     <thead>
+                        <th>Buyers</th><th>Saving</th>
+                     </thead>
+                     <tbody>
+                     {% for key,value in eachsellersoldamt.items %}
+                        <tr>
+                            <td>{% for v in value %}
+                                    {{ v }},
+                                {% endfor %}
+                            </td>
+                            <td>{{ key }}</td>
+                        </tr>
+                     {% endfor %}
+                    </tbody>
+              </table>
+
+               <!--<p> flippedvalue is {{ flipped }}</p>-->
+               <!--<p> eachsellersoldamt is {{ eachsellersoldamt }}</p>-->
+                {% endif %}
+             </p>
+          </div>
+        </div>
+    <a class="btn btn-success" href="{%url 'search' %}" role="button">Home</a>
+{% endblock %}
