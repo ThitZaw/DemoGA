@@ -137,6 +137,27 @@ def flipped(valid_pair):
             flipped[value] += [key]
     return flipped
 
+def divide_profit(buyer_csv_info,each_buyer_saving):
+    eachsellersoldamt = each_buyer_saving
+    buyer_csv_info = buyer_csv_info
+
+    buyer_saving = {}
+    for i, j in eachsellersoldamt.items():
+        total_group_buy_qty = 0
+
+        # Calculate total quantity of each coalition
+        for buyer in j:
+            total_group_buy_qty += buyer_csv_info[buyer]
+
+
+        for buyer in j:
+            #calculate the percentage for each buyer in each coalition
+            P = (buyer_csv_info[buyer] / total_group_buy_qty) * 100
+            saving = i * (P / 100)
+            buyer_saving[buyer] = round(saving, 2)
+
+    return buyer_saving
+
 
 def GAalgorithm(buyer,seller,termination,population_size,crossover,mutationRate):
     buyer = buyer
@@ -203,4 +224,6 @@ def GAalgorithm(buyer,seller,termination,population_size,crossover,mutationRate)
         if seller in seller_buyer_pair:
            each_buyer_saving[each_seller_saving[seller]] = seller_buyer_pair[seller]
 
-    return bestfittestpair[0],bestfittestpair[1],seller_buyer_pair,each_buyer_saving
+    buyer_saving = divide_profit(buyer_csv_info,each_buyer_saving)
+
+    return bestfittestpair[0],bestfittestpair[1],seller_buyer_pair,each_buyer_saving,buyer_saving

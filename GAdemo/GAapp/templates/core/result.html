@@ -27,9 +27,9 @@
               <p> Total Saving is {{ totalsaving }}</p>
 
               <table class="table table-border">
-                     <caption>Each Buyer's Saving</caption>
+                     <caption>Each Coalition's Saving</caption>
                      <thead>
-                        <th>Buyers</th><th>Saving</th>
+                        <th>Buyers</th><th> Total Saving</th>
                      </thead>
                      <tbody>
                      {% for key,value in eachsellersoldamt.items %}
@@ -44,8 +44,23 @@
                     </tbody>
               </table>
 
-               <!--<p> flippedvalue is {{ flipped }}</p>-->
+              <table class="table table-border">
+                     <caption>Each Buyer's Saving</caption>
+                     <thead>
+                        <th>Buyers</th><th>Saving</th>
+                     </thead>
+                     <tbody>
+                     {% for key,value in buyer_saving.items %}
+                        <tr>
+                            <td>{{ key }}</td>
+                            <td>{{ value }}</td>
+                        </tr>
+                     {% endfor %}
+                    </tbody>
+              </table>
+               <!--<p> flippedvalue is seller_buyer_pair {{ flipped }}</p>-->
                <!--<p> eachsellersoldamt is {{ eachsellersoldamt }}</p>-->
+               <!--<p> buyer_saving is {{ buyer_saving }}</p>-->
                 {% endif %}
              </p>
           </div>

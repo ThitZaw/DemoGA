@@ -171,7 +171,7 @@ def home(request):
     filter_seller_df.to_csv('sellers.csv', sep=',', encoding='utf-8', index=False)
 
     return render(request, 'core/home.html', {
-        'buyers': filter_df.to_html(classes='table table-bordered'),
+        'buyers': buyer_filter.to_html(classes='table table-bordered'),
         'BIQ': total_order_quanity,
         'sellers': filter_seller_df.to_html(classes='table table-bordered'),
         'SIQ':total_inventory_quantity,
@@ -206,10 +206,11 @@ def result(request):
             'error_message': error_message,
         })
     else:
-        bestpair,totalsaving,flipped,each_seller_sold_amt = GA.GAalgorithm(buyer,seller,termination,population_size,crossover,mutationRate)
+        bestpair,totalsaving,flipped,each_seller_sold_amt,buyer_saving = GA.GAalgorithm(buyer,seller,termination,population_size,crossover,mutationRate)
         return render(request, 'core/result.html', {
             'bestfittest':bestpair,
             'totalsaving':totalsaving,
             'eachsellersoldamt':each_seller_sold_amt,
             'flipped':flipped,
+            'buyer_saving':buyer_saving,
         })
